@@ -1,4 +1,4 @@
-# React-Hooks-Bootstrap
+# React-useReducer-Bootstrap
 <!-- ### It's a Full Mobile Responsive App -->
 
 <!-- ### Go to Live Project: https://food-shop-app-react-tailwined.netlify.app/ -->
